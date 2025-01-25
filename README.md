@@ -49,6 +49,6 @@
   <h3>Interação</h3>
   <p>Caso queira tem interação com as telas só clicas nos seguintes links:</p>
   <ul>
-    <li><a href="https://vitor-jarreta.github.io/Projeto-Tec-Blog/main/html/index.html" target="_blank">Blog</a></li>
+    <li><a href="https://vitor-jarreta.github.io/Projeto-Tec-Blog/html/index.html" target="_blank">Blog</a></li>
   </ul>
 </div>
