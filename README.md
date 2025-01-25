@@ -39,7 +39,9 @@
   <hr>
   <h3>Resultado: </h3>
   <h4>Blog: </h4>
-  <img src=""/>
+  <img src="images/images-result/Screenshot_1.png"/>
+  <img src="images/images-result/Screenshot_2.png"/>
+  <img src="images/images-result/Screenshot_3.png"/>
 </div>
 
 <div>
